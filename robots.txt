@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://arnavbatra0.github.io/sitemap.xml
+Sitemap: https://arnavbatra0.github.io/brieflyarnav.github.io/sitemap.xml
