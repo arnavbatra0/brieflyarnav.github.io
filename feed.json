@@ -9,5 +9,19 @@
         "name": "Arnav Batra"
     },
     "items": [
+        {
+            "id": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html",
+            "url": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html",
+            "title": "Test Post-1",
+            "summary": "This tells if thw whole set up is working or not attached is an image to make sure everything is copacetic ",
+            "content_html": "<p>This tells if thw whole set up is working or not <figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/EUREKA_upscaled.png\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xs.png 640w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-sm.png 768w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-md.png 1024w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-lg.png 1366w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xl.png 1600w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-2xl.png 1920w\"></figure>attached is an image to make sure everything is copacetic </p>",
+            "author": {
+                "name": "Arnav Batra"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-15T01:55:42+05:30",
+            "date_modified": "2026-05-15T01:55:42+05:30"
+        }
     ]
 }
