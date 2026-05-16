@@ -32,7 +32,36 @@
     }).format(new Date());
   }
 
+  initLaunchNotice();
   initStaticSearch();
+
+  function initLaunchNotice() {
+    var modal = document.querySelector("[data-launch-modal]");
+    if (!modal) {
+      return;
+    }
+
+    var buttons = document.querySelectorAll("[data-launch-notice]");
+    var closeButton = modal.querySelector("[data-close-launch]");
+
+    Array.prototype.forEach.call(buttons, function (button) {
+      button.addEventListener("click", function () {
+        modal.classList.add("is-open");
+      });
+    });
+
+    if (closeButton) {
+      closeButton.addEventListener("click", function () {
+        modal.classList.remove("is-open");
+      });
+    }
+
+    modal.addEventListener("click", function (event) {
+      if (event.target === modal) {
+        modal.classList.remove("is-open");
+      }
+    });
+  }
 
   function initStaticSearch() {
     var root = document.querySelector("[data-static-search]");
