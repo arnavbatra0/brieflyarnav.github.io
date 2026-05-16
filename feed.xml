@@ -3,12 +3,67 @@
     <title>Briefly, Arnav</title>
     <link href="https://arnavbatra0.github.io/brieflyarnav.github.io/feed.xml" rel="self" />
     <link href="https://arnavbatra0.github.io/brieflyarnav.github.io" />
-    <updated>2026-05-15T01:55:42+05:30</updated>
+    <updated>2026-05-16T23:12:28+05:30</updated>
     <author>
         <name>Arnav Batra</name>
     </author>
     <id>https://arnavbatra0.github.io/brieflyarnav.github.io</id>
 
+    <entry>
+        <title>test nest </title>
+        <author>
+            <name>Arnav Batra</name>
+        </author>
+        <link href="https://arnavbatra0.github.io/brieflyarnav.github.io/test-nest.html"/>
+        <id>https://arnavbatra0.github.io/brieflyarnav.github.io/test-nest.html</id>
+        <media:content url="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/5/22445bdf1fc6fbae7820429a12998cf6.jpg" medium="image" />
+
+        <updated>2026-05-16T23:12:28+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Test post finality 3 </title>
+        <author>
+            <name>Arnav Batra</name>
+        </author>
+        <link href="https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-finality-3.html"/>
+        <id>https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-finality-3.html</id>
+        <media:content url="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/4/189ea00896a35cca141e560548fad0a6.jpg" medium="image" />
+
+        <updated>2026-05-16T23:12:12+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Test post 2 </title>
+        <author>
+            <name>Arnav Batra</name>
+        </author>
+        <link href="https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-2.html"/>
+        <id>https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-2.html</id>
+        <media:content url="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/3/1db179daef3262418d4c3d466c1cd5b9.jpg" medium="image" />
+
+        <updated>2026-05-16T23:11:17+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/3/1db179daef3262418d4c3d466c1cd5b9.jpg" alt="" />
+                    this tells if the polaroids are workign or not is sihn check otu my linekdin
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/3/1db179daef3262418d4c3d466c1cd5b9.jpg" class="type:primaryImage" alt="" /></p>
+                <p>this tells if the polaroids are workign or not </p>
+<p> </p>
+<p> </p>
+<p>is</p>
+<p>sihn</p>
+<p> </p>
+<p>check otu my linekdin</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Post-1</title>
         <author>
@@ -16,15 +71,18 @@
         </author>
         <link href="https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html"/>
         <id>https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html</id>
+        <media:content url="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/d7d17f21051abc06d9911c880af6a8ea.jpg" medium="image" />
 
         <updated>2026-05-15T01:55:42+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/d7d17f21051abc06d9911c880af6a8ea.jpg" alt="" />
                     This tells if thw whole set up is working or not attached is an image to make sure everything is copacetic 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/d7d17f21051abc06d9911c880af6a8ea.jpg" class="type:primaryImage" alt="" /></p>
                 <p>This tells if thw whole set up is working or not <figure class="post__image"><img loading="lazy"  src="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/EUREKA_upscaled.png" alt="" width="3840" height="2160" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xs.png 300w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-sm.png 480w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-md.png 749w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xl.png 1200w"></figure>attached is an image to make sure everything is copacetic </p>
             ]]>
         </content>

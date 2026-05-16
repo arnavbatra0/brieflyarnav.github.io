@@ -10,18 +10,60 @@
     },
     "items": [
         {
+            "id": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-nest.html",
+            "url": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-nest.html",
+            "title": "test nest ",
+            "image": "https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/5/22445bdf1fc6fbae7820429a12998cf6.jpg",
+            "author": {
+                "name": "Arnav Batra"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-16T23:12:28+05:30",
+            "date_modified": "2026-05-16T23:12:28+05:30"
+        },
+        {
+            "id": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-finality-3.html",
+            "url": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-finality-3.html",
+            "title": "Test post finality 3 ",
+            "image": "https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/4/189ea00896a35cca141e560548fad0a6.jpg",
+            "author": {
+                "name": "Arnav Batra"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-16T23:12:12+05:30",
+            "date_modified": "2026-05-16T23:12:12+05:30"
+        },
+        {
+            "id": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-2.html",
+            "url": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-2.html",
+            "title": "Test post 2 ",
+            "summary": "this tells if the polaroids are workign or not is sihn check otu my linekdin",
+            "content_html": "<p>this tells if the polaroids are workign or not </p>\n<p> </p>\n<p> </p>\n<p>is</p>\n<p>sihn</p>\n<p> </p>\n<p>check otu my linekdin</p>",
+            "image": "https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/3/1db179daef3262418d4c3d466c1cd5b9.jpg",
+            "author": {
+                "name": "Arnav Batra"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-16T23:11:17+05:30",
+            "date_modified": "2026-05-16T23:11:39+05:30"
+        },
+        {
             "id": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html",
             "url": "https://arnavbatra0.github.io/brieflyarnav.github.io/test-post-1.html",
             "title": "Test Post-1",
             "summary": "This tells if thw whole set up is working or not attached is an image to make sure everything is copacetic ",
             "content_html": "<p>This tells if thw whole set up is working or not <figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/EUREKA_upscaled.png\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xs.png 300w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-sm.png 480w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-md.png 749w ,https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/responsive/EUREKA_upscaled-xl.png 1200w\"></figure>attached is an image to make sure everything is copacetic </p>",
+            "image": "https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/1/d7d17f21051abc06d9911c880af6a8ea.jpg",
             "author": {
                 "name": "Arnav Batra"
             },
             "tags": [
             ],
             "date_published": "2026-05-15T01:55:42+05:30",
-            "date_modified": "2026-05-15T01:55:42+05:30"
+            "date_modified": "2026-05-16T23:11:58+05:30"
         }
     ]
 }
