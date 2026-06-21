@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://arnavbatra0.github.io/brieflyarnav.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://brieflyarnav.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://arnavbatra0.github.io/brieflyarnav.github.io/</loc>
+<loc>https://brieflyarnav.in/</loc>
 </url>
 <url>
-<loc>https://arnavbatra0.github.io/brieflyarnav.github.io/about-2.html</loc>
+<loc>https://brieflyarnav.in/about-2.html</loc>
 <lastmod>2026-05-17T00:28:13+05:30</lastmod>
 <image:image>
-<image:loc>https://arnavbatra0.github.io/brieflyarnav.github.io/media/posts/7/IMG-20240617-WA0391-1.jpg</image:loc>
+<image:loc>https://brieflyarnav.in/media/posts/7/IMG-20240617-WA0391-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://arnavbatra0.github.io/brieflyarnav.github.io/privacy-policy.html</loc>
+<loc>https://brieflyarnav.in/privacy-policy.html</loc>
 <lastmod>2026-05-17T00:28:19+05:30</lastmod>
 </url>
 <url>
-<loc>https://arnavbatra0.github.io/brieflyarnav.github.io/subscribe.html</loc>
+<loc>https://brieflyarnav.in/subscribe.html</loc>
 <lastmod>2026-05-17T01:06:12+05:30</lastmod>
 </url>
 </urlset>
