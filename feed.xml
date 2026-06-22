@@ -3,10 +3,33 @@
     <title>Briefly, Arnav</title>
     <link href="https://brieflyarnav.in/feed.xml" rel="self" />
     <link href="https://brieflyarnav.in" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-06-22T23:48:14+05:30</updated>
     <author>
         <name>Arnav Batra</name>
     </author>
     <id>https://brieflyarnav.in</id>
 
+    <entry>
+        <title>test op</title>
+        <author>
+            <name>Arnav Batra</name>
+        </author>
+        <link href="https://brieflyarnav.in/test-op.html"/>
+        <id>https://brieflyarnav.in/test-op.html</id>
+
+        <updated>2026-06-22T23:48:11+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    y hy,; html
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>y</p>
+<p> </p>
+<p>hy,;</p>
+<p>html</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
