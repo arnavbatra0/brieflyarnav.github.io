@@ -3,10 +3,46 @@
     <title>Briefly, Arnav</title>
     <link href="https://brieflyarnav.in/feed.xml" rel="self" />
     <link href="https://brieflyarnav.in" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2026-06-24T12:36:10+05:30</updated>
     <author>
         <name>Arnav Batra</name>
     </author>
     <id>https://brieflyarnav.in</id>
 
+    <entry>
+        <title>One Interaction</title>
+        <author>
+            <name>Arnav Batra</name>
+        </author>
+        <link href="https://brieflyarnav.in/one-interaction.html"/>
+        <id>https://brieflyarnav.in/one-interaction.html</id>
+        <media:content url="https://brieflyarnav.in/media/posts/10/One-Interaction..png" medium="image" />
+            <category term="Society"/>
+            <category term="Gig Economy"/>
+            <category term="Essay"/>
+
+        <updated>2026-06-24T12:30:00+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://brieflyarnav.in/media/posts/10/One-Interaction..png" alt="" />
+                    1. Rider has reached your doorstep 6PM. I was walking back home when I saw a quick commerce delivery partner on a job. The rider stops, checks the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://brieflyarnav.in/media/posts/10/One-Interaction..png" class="type:primaryImage" alt="" /></p>
+                <h2>1. Rider has reached your doorstep</h2>
+<p style="font-size: 1.1em; line-height: 1.8;"><br>6PM. I was walking back home when I saw a quick commerce delivery partner on a job. The rider stops, checks the address a dozen times just to be sure, just so he does not lose any of his wages. The road was busy with nowhere to park the bike. He parks it on the ramp of the place he was supposed to deliver at.</p>
+<h2><br>2. Rate your experience</h2>
+<p style="font-size: 1.1em; line-height: 1.8;"><br>The rider gets off his bike, looks around, hopes he doesn't have to call. Eventually he does. The 45 seconds start, someone comes out to collect the goods. Their first instinct isn't to ask the rider if he wants water, or just ask if he's alright. What happened shocked me. The person snapped at him, why is your bike on the ramp?<br><br>It does not sound bad. It just is bad.</p>
+<p style="font-size: 1.1em; line-height: 1.8;">Maybe that person was holding something in. Maybe it was the heat. Did the rider deserve it? No.</p>
+<h2><br>3. Out for Delivery</h2>
+<p style="font-size: 1.1em; line-height: 1.8;"><br>Now what happens? The person was already in a bad mood. Now the rider is too.<br><br>It would be wrong to call this a small local thing. This is happening to thousands of riders daily across hundreds of cities. Maybe the order arrived in 11 minutes instead of 10. Maybe he wasn't supposed to park his bike on the ramp. Maybe the ice cream melted in 45°C heat. The consumer lashes out. The rider still has 8 more deliveries to go and this was already the tenth of his day. He carries it forward. His next interaction is fuelled by that. And then that consumer carries something forward too. The loop runs quietly, all day.<br><br>There's another thing worth talking about. That same rider is now back on the road in rush hour traffic, hundreds of vehicles, trying to deliver a shampoo in under 10 minutes, and he's angry. Does that affect his driving? Probably. And that could explain a lot of things.</p>
+<h2><br>4. Help us improve</h2>
+<p style="font-size: 1.1em; line-height: 1.8;"><br>What is this exactly? A rider problem? Not really. A consumer problem? Maybe. The company? The road? It's probably a civic sense problem, one where we can't speak to a hardworking person like a human being.<br><br>Or maybe it's a system problem. Though isn't calling it a system problem just a way of not accepting our own flaws?<br><br>There is a very good chance this is on us. I'll try to explain how.<br><br>Blinkit, Zepto, Instamart solved their part. Getting the goods to you as fast as possible. They optimised everything in their control- the app, the shortest routes, the packaging, the dark stores. What they left to us is the 45 seconds at the door. That interaction they didn't build for. That part they assumed we'd figure out.<br><br>We haven't.</p>
+<h2><br>5. Rider has completed your delivery</h2>
+<p style="font-size: 1.1em; line-height: 1.8;"><br>The rider just listened and left. Checked his phone, accepted the next order, and left. The person still on the ramp, mumbling. A passerby like me trying not to draw attention.<br><br>I try to observe things that don't add up.<br><br>Did this?</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
