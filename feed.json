@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://brieflyarnav.in/you-agreed-did-you.html",
+            "url": "https://brieflyarnav.in/you-agreed-did-you.html",
+            "title": "You Agreed. Did You?",
+            "summary": "1. The Routine and the Skeptic A few weeks ago, my professor was talking about AI (Artificial Intelligence) in the legal field, how it is being used in&hellip;",
+            "content_html": "<h2>1. The Routine and the Skeptic</h2>\n<p style=\"font-size: 1.1em; line-height: 1.8;\"><br>A few weeks ago, my professor was talking about AI (Artificial Intelligence) in the legal field, how it is being used in foreign countries and basically how it has been unsuccessful in the majority of the places. Then another day he was talking about terms and conditions- how nobody actually reads them and just clicks “I Agree”. That evening I was sitting in the library reading the newspaper thinking, why not make something that actually works?<br><br>Because the thing is, you have signed off on terms for using your phone, email, food delivery app, iOS update, etc. without reading what you agreed to in the first place about your data, your rights, how liabilities will be handled. Companies send “Update to our terms of service” emails every year and people generally do not open them, and the scary part is that it is not just the young users who may know something about data sharing but older people, who do not open their email let alone click a link leading to a large document about their personal data. You agreed to all of it. Probably in under 5 seconds.<br><br>Occasionally someone actually reads the document. This person is rare and must be suspicious of something specific. This person scrolls, finds sections, weird legalese, meanings of words listed elsewhere, that document possibly having its own terms. Eventually that person closes the tab having learned almost nothing.</p>\n<h2><br>2. The Tool</h2>\n<p style=\"font-size: 1.1em; line-height: 1.8;\"><br>I think that the tool exists and it is actually more capable than people realise. Give AI a 52 page document full of legalese and it will tell you what matters in seconds. Data sharing, auto-renewals, encryption of personal data, some clauses deliberately buried on page 27. But it can do more than summarise, think about a small, lightweight model not a 100B parameter model, whose responses can be cached so the same answers are not being generated over and over, keeping the costs low. When you go to click I Accept, a small window pops up right in the corner of your browser or app. FAQs, a plain English summary or summary in regional languages, you can even ask about something on the spot and actually get an answer before you agree to anything.<br><br>And it could do something more useful than just explain. It could show you what you can opt out of later. Because most people do not know those options exist after sign up. For example, you do not see a “do not use my data to train AI” when you sign up for OpenAI (ChatGPT) that option is listed in account privacy settings, a tool like this could point you there, give you a chance to actually decide something even if not right at that moment.<br><br>Yet this isn’t widely adopted, not built in any meaningful way, inside the product- at the moment you are being asked to agree. The technology exists to make the consent part real. We just need to act on making it real. Anyway, you have already agreed to something since you started reading this.</p>",
+            "image": "https://brieflyarnav.in/media/posts/12/briefly_arnav_linkedin_graphic_v3.png",
+            "author": {
+                "name": "Arnav Batra"
+            },
+            "tags": [
+                   "Privacy",
+                   "Law",
+                   "Essay",
+                   "AI"
+            ],
+            "date_published": "2026-08-26T11:30:00+05:30",
+            "date_modified": "2026-08-26T11:30:00+05:30"
+        },
+        {
             "id": "https://brieflyarnav.in/uniform-and-a-whatsapp-forward.html",
             "url": "https://brieflyarnav.in/uniform-and-a-whatsapp-forward.html",
             "title": "Uniform and a WhatsApp Forward",
